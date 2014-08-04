@@ -71,22 +71,21 @@
         <div class="slide" id="slide4" data-slide="4" data-stellar-background-ratio="0.8">
 
 
-          <div class="content1" data-stellar-ratio="2" data-stellar-vertical-offset="0" data-stellar-horizontal-offset="-100">
-
-            <ul>
-              <li><a href="#"><img src="/img/vid-01.png" alt="Video 1" /></a></li>
-              <li><a href="#"><img src="/img/vid-02.png" alt="Video 2" /></a></li>
-            </ul>
+          <div class="content1" data-stellar-ratio="1" data-stellar-vertical-offset="0" data-stellar-horizontal-offset="-100">
 
             <div>
               <h2>Building<br />Up Others.</h2>
               <h3>We make your dreams come true to fulfill theirs.</h3>
               <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent euismod velit vitae lacus rutrum suscipit. Aenean eu arcu quis erat scelerisque aliquet non nec eros. Nam non bibendum ante. Suspendisse justo mi, consequat id nibh sed, luctus varius arcu. Nullam viverra lectus sit amet placerat convallis. Nam in ornare massa. Etiam sit amet iaculis metus. Sed interdum a mauris at commodo. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Curabitur magna metus, gravida dictum nisl vitae, luctus dictum sem. Nam quis aliquam diam, vel tempus leo.</p>
               <h4>Our Partners:</h4>
-
               <img src="/img/small-steps.png" data-stellar-ratio="1" alt="Small steps nurturing center" />
               <img src="/img/rescue-pink.png" data-stellar-ratio="1" alt="Rescue Pink!" />
             </div>
+
+            <ul>
+              <li><a href="#"><img src="/img/vid-01.png" alt="Video 1" /></a></li>
+              <li><a href="#"><img src="/img/vid-02.png" alt="Video 2" /></a></li>
+            </ul>
 
           </div>
 

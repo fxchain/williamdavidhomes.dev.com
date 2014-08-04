@@ -209,9 +209,11 @@ p{margin:15px 0;}
  SLIDE 4
 *******************************/
 #slide4{background: url(/img/bg-map.gif) top left no-repeat;}
-#slide4 .content1{position:relative;}
+#slide4 .content1{position:relative;padding:60px;}
 #slide4 .content1 div{
-  width:420px;
+  width:40%;
+  float:left;
+  margin:0 50px 0 0;
 }
 #slide4 .content1 h2, #slide4 .content1 h3{color:#599692;}
 #slide4 h4{
@@ -224,10 +226,11 @@ p{margin:15px 0;}
 }
 
 #slide4 .content1 ul{
-  float:right;
+  float:left;
+  padding:100px 0 0 0;
 }
 #slide4 .content1 li{
-  /*display:inline-block;*/
+  display:inline-block;
 }
 /******************************
  SLIDE 5
